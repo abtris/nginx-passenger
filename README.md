@@ -1,20 +1,29 @@
-nginx-passenger
+Nginx Passenger
 ===============
 
-Ansible roles for Ubuntu 12.04
+A brief description of the role goes here.
 
-Put in ansible project in folder: 
-    
-    roles/nginx-passenger 
+Requirements
+------------
 
+Ubuntu, Debian system
 
-Example of using in site.yml
+Role Variables
+--------------
 
-    ---
+none
 
-    - name: apply common configuration to all nodes
-      hosts: all
-      user: root
+Dependencies
+------------
 
-      roles:
-        - nginx-passenger
+none
+
+License
+-------
+
+MIT
+
+Author Information
+------------------
+
+Issues and more at: https://github.com/abtris/nginx-passenger

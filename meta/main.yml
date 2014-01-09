@@ -1,0 +1,15 @@
+---
+galaxy_info:
+  author: Ladislav Prskavec
+  license: MIT
+  min_ansible_version: 1.4
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+  categories:
+     - web
+dependencies: []
