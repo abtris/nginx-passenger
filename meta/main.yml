@@ -6,10 +6,13 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-        - all
+        - saucy
+        - precise
+        - lucid
     - name: Debian
       versions:
-        - all
+        - wheezy
+        - squeeze
   categories:
      - web
 dependencies: []
