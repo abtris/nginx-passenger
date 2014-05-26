@@ -6,7 +6,7 @@ Nginx Passenger
 Requirements
 ------------
 
-Ubuntu (10.04, 12.04, 13.10), Debian (6,7) system
+Ubuntu (10.04, 12.04, 13.10, 14.04), Debian (6,7) system
 
 Role Variables
 --------------
